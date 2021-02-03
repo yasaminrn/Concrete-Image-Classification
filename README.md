@@ -1,6 +1,8 @@
 # Concrete-Image-Classification
 This project classifies surface images of concrete as cracked/not cracked using Convolutional Neural Network
 
+<img src="./Sample_image.jpg">
+
 The dataset and images are downloaded from Mendeley Data:
 Özgenel, Çağlar Fırat (2018), “Concrete Crack Images for Classification”, Mendeley Data, v1 http://dx.doi.org/10.17632/5y9wdsg2zt.1
 Dataset: Concrete Crack Images for Classification
