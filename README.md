@@ -1,5 +1,5 @@
 # Concrete-Image-Classification
-This project classifies surface images of concrete as cracked/not cracked using Convolutional Neural Network
+Classifies of concrete surface images as cracked/not cracked using Convolutional Neural Network
 
 <img src="./sample_image.jpg">
 
